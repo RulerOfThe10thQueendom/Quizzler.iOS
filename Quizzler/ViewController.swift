@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 London App Brewery. All rights reserved.
 //
 
+//todo: allow result sending
+
 import UIKit
 
 class ViewController: UIViewController {
